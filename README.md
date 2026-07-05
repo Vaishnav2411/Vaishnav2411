@@ -1,12 +1,13 @@
 <div align="center">
 
-  
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Vaishnav+Kadam;Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Open+to+Work" />
 </p>
----
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
----
+
 <p align="center">
+
+  
 # 👋 Hi, I'm Vaishnav Ramdas Kadam
 
 ### 💻 Java Full Stack Developer | ☕ Spring Boot Enthusiast | 🚀 C-DAC PG-DAC Student
