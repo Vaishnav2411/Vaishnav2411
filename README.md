@@ -1,5 +1,12 @@
 <div align="center">
 
+  
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Vaishnav+Kadam;Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Open+to+Work" />
+</p>
+---
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+---
+<p align="center">
 # 👋 Hi, I'm Vaishnav Ramdas Kadam
 
 ### 💻 Java Full Stack Developer | ☕ Spring Boot Enthusiast | 🚀 C-DAC PG-DAC Student
@@ -123,3 +130,10 @@ Docker • Microservices • Linux • JWT Authentication
 > "I believe consistency beats intensity. Every day I strive to become a better developer than I was yesterday."
 
 ---
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaishnav2411&show_icons=true&theme=tokyonight"/>
+---
+<img src="https://streak-stats.demolab.com?user=Vaishnav2411&theme=tokyonight"/>
+---
+
+## 🐍 Contribution Snake
+![snake](https://github.com/Vaishnav2411/Vaishnav2411/blob/output/github-contribution-grid-snake.svg)
