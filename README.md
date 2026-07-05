@@ -40,15 +40,25 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## ☕
+### 💻 Languages
+Java • JavaScript • SQL
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+### 🚀 Backend
+Spring Boot • Spring MVC • Spring Data JPA • Hibernate • REST APIs • Spring Security
+
+### 🎨 Frontend
+HTML5 • CSS3 • JavaScript • React • Bootstrap
+
+### 🗄️ Database
+MySQL • MongoDB
+
+### ⚙️ Tools
+Git • GitHub • Maven • Postman • IntelliJ IDEA • VS Code • Eclipse
+
+### ☁️ Currently Exploring
+Docker • Microservices • Linux • JWT Authentication
 
 ---
 
@@ -64,6 +74,7 @@
 ## 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -85,6 +96,7 @@
 - 🔐 Spring Security
 - 🎫 JWT Authentication
 - ⚛️ React
+- 🗄️ MongoDB
 - ☁️ RESTful APIs
 - 🐳 Docker (Basics)
 - ☸️ Microservices
