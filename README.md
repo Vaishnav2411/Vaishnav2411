@@ -173,61 +173,17 @@ Currently pursuing **PG-DAC at C-DAC ACTS**, I'm focused on developing practical
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vaishnav2411&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vaishnav2411&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+[![Readme Card](https://github-readme-stats-nine-drab-86.vercel.app/api/pin/?username=Vaishnav2411&repo=StudentManagementSystem&theme=tokyonight)](https://github.com/Vaishnav2411/StudentManagementSystem)
 
-### 📚 Student Management System
-- Spring Boot
-- MySQL
-- REST API
-- CRUD Operations
-
-</td>
-
-<td width="50%">
-
-### 📖 Library Management System
-- Spring Boot
-- Spring Data JPA
-- MySQL
-- Authentication
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🍔 Food Ordering System
-- Java
-- Spring Boot
-- Hibernate
-- MySQL
-
-</td>
-
-<td width="50%">
-
-### 🎬 Movie Booking System
-- Spring Boot
-- REST API
-- MySQL
-- React (Planned)
-
-</td>
-</tr>
-
-</table>
-
+[![Readme Card](https://github-readme-stats-nine-drab-86.vercel.app/api/pin/?username=Vaishnav2411&repo=LibraryManagement&theme=tokyonight)](https://github.com/Vaishnav2411/LibraryManagement)
 ---
 
 # 🎯 2026 Goals
