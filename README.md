@@ -1,65 +1,113 @@
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaishnav2411/Vaishnav2411/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaishnav2411/Vaishnav2411/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vaishnav2411/Vaishnav2411/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<div align="center">
 
-###
+# 👋 Hi, I'm Vaishnav Ramdas Kadam
 
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+### 💻 Java Full Stack Developer | ☕ Spring Boot Enthusiast | 🚀 C-DAC PG-DAC Student
 
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Always+Learning+Something+New;Open+to+Software+Engineer+Opportunities)](https://git.io/typing-svg)
 
-<p data-importer="text" align="left">My name is Vaishnav Ramdas Kadam .</p>
+<img src="https://komarev.com/ghpvc/?username=Vaishnav2411&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
-###
-
-<h2 data-importer="text" align="left">About me 👨‍💻</h2>
-
-###
-
-<p data-importer="text" align="left">🌱 Currently mastering Java Full Stack Development at C-DAC ACTS<br>- ☕ Strong foundation in Core Java, OOP, Collections, JDBC, and Multithreading<br>- 🚀 Building backend applications using Spring Boot, Spring MVC, Spring Data JPA  & REST APIs<br>- 🗄️ Skilled in MySQL database design, SQL queries, and optimization<br>- 🎨 Developing responsive UIs with HTML, CSS, JavaScript & React<br>- 🔐 Learning Spring Security, JWT Authentication & Microservices<br>- ⚡ Hands-on experience with Git, GitHub, Maven, Postman & VS Code<br>- 📚 Continuously improving my problem-solving and Data Structures skills<br>- 🤝 Strong background in Project Management, Agile Methodology & Team Collaboration<br>- 🎯 Goal: To become a highly skilled Software Engineer and contribute to innovative products</p>
-
-###
-
-<h2 data-importer="text" align="left">🛠️ Tech Stack</h2>
-
-###
-
-<p data-importer="text" align="center">☕ Java • 🌱 Spring Boot • 🔄 REST API • 🗄️ MySQL • ⚛️ React • 🌐 HTML5 • <br>🎨 CSS3 • ⚡ JavaScript • 📦 Maven • 🐙 Git • 🚀 GitHub • 📮 Postman</p>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Vaishnav2411/Vaishnav2411/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Vaishnav2411/Vaishnav2411/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/vaishnav-kadam-186a5a241" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="vaishnavk2411@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+# 🚀 About Me
 
-###
+💡 I enjoy building software that solves real-world problems through clean, maintainable, and scalable code.
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="199" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQxOGQ4OWhpY2pteDF3YmU5Z3FnM3NmNDF0ZnBlcDZmdnoyazhpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"  />
-</div>
+🎓 **Current Focus**
+- 🎓 Pursuing **PG-DAC** at **C-DAC ACTS**
+- 💻 Learning **Enterprise Java Development**
+- 🌱 Expanding my knowledge in **Spring Boot, React, REST APIs, and Microservices**
 
-###
+---
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:Vaishnav2411?theme=booru-ve&padding=6&offset=0&scale=0.6&align=center&pixelated=1&darkmode=auto"  />
-</div>
+## 👨‍💻 Professional Background
 
-###
+- 💻 Java Full Stack Developer (Aspiring)
+- 🎓 MBA in International Business & Information Technology
+- 🎓 Bachelor of Commerce (B.Com)
+- 📋 Experience in Project Management and Operations
+- 🤝 Comfortable working in Agile teams
+- 🚀 Passionate about solving business problems using technology
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Vaishnav2411/Vaishnav2411/snake-output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 🎯 Career Objective
+
+> To build scalable, secure, and high-performance software applications while continuously learning modern technologies and contributing to impactful products.
+
+---
+
+# 🛠️ Tech Stack
+
+## ☕
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+---
+
+## 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+---
+
+## 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+
+---
+
+# 🌱 Currently Learning
+
+- ☕ Advanced Java
+- 🌱 Spring Boot
+- 🔐 Spring Security
+- 🎫 JWT Authentication
+- ⚛️ React
+- ☁️ RESTful APIs
+- 🐳 Docker (Basics)
+- ☸️ Microservices
+- 📈 Data Structures & Algorithms
+
+---
+
+# 💼 Looking For
+
+✅ Software Engineer
+
+✅ Java Developer
+
+✅ Java Full Stack Developer
+
+✅ Backend Developer
+
+✅ Graduate Engineer Trainee
+
+---
+
+# 💡 Fun Fact
+
+> "I believe consistency beats intensity. Every day I strive to become a better developer than I was yesterday."
+
+---
