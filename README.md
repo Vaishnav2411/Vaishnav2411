@@ -268,6 +268,6 @@ Currently pursuing **PG-DAC at C-DAC ACTS**, I'm focused on developing practical
 
 ### ⭐ If you like my work, consider giving a ⭐ to my repositories!
 
-Thanks for visiting my profile! 🚀
+🚀 Thanks for visiting my profile! 🚀
 
 </div>
